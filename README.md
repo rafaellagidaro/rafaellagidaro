@@ -67,12 +67,7 @@ Profissional em transição para a área de **Análise de Dados**, combinando es
 
 ---
 
-## 📊 Insights do GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaellagidaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=9437FF&icon_color=9437FF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellagidaro&layout=compact&langs_count=7&theme=dracula&hide_border=true&title_color=9437FF&icon_color=9437FF" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaellagidaro&theme=dracula&area=true&hide_border=true&color=9437FF" />
