@@ -79,3 +79,6 @@ const bruna = {
     focus: "Converting complex data into inclusive strategy"
   }
 };
+
+
+
