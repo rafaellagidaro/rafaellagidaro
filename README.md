@@ -1,100 +1,87 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=BRUNA%20RAFAELA&fontSize=70&fontColor=9437FF&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=180&section=header&text=BRUNA%20RAFAELA&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=STRATEGIC%20DATA%20GOVERNANCE%20|%20CLOUD%20ARCHITECT&descAlignY=68" width="100%"/>
 
-### **Data Analyst Specialist • Cloud Architect • Accessibility Strategist**
-*Transformando o caos de dados em vantagem competitiva e inclusão digital.*
+  <br />
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunarafaelagidaro/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaella.gidaro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-9437FF?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rafaellagidaro)
+  ### **Bridging the Gap Between Complex Data and High-Stake Decisions.**
+  
+  [**LINKEDIN**](https://www.linkedin.com/in/brunarafaelagidaro/) &nbsp;•&nbsp; [**PORTFOLIO**](https://github.com/rafaellagidaro) &nbsp;•&nbsp; [**CONTACT**](mailto:rafaella.gidaro@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Por que a sua empresa precisa da minha expertise?
-
-Muitas organizações possuem dados, mas poucas possuem **inteligência acionável**. Eu preencho a lacuna entre a infraestrutura técnica e a decisão de negócio. 
-
-> ### **O que eu resolvo por si:**
-> * **Complexidade de Dados:** Transformo silos de informação em dashboards estratégicos e claros.
-> * **Barreiras de Acessibilidade:** Garanto que a sua tecnologia seja utilizável por todos, mitigando riscos de conformidade (WCAG).
-> * **Escalabilidade Cloud:** Arquitetura otimizada em AWS/OCI para reduzir custos e aumentar a performance.
+## 🖋️ Executive Summary
+Como especialista em **Data Analytics** e **Cloud Infrastructure**, a minha missão é converter ativos de dados brutos em inteligência competitiva. Com expertise em **AWS/OCI** e um compromisso rigoroso com a **Acessibilidade Digital (A11y)**, projeto ecossistemas que são simultaneamente potentes, escaláveis e inclusivos.
 
 ---
 
-## 🛠️ Ecossistema de Soluções (High-Tech Stack)
+## 💎 Value Proposition (O que eu resolvo)
 
-<table width="100%">
+> **01. Arquitetura de Dados:** Redução de silos informacionais e criação de Single Source of Truth (SSOT).
+> 
+> **02. Cloud Governance:** Otimização de custos e segurança em ambientes multi-cloud.
+> 
+> **03. Digital Inclusion:** Garantia de conformidade legal e ética através de padrões WCAG de alto nível.
+
+---
+
+## 🛠️ Technological Sovereignty
+
+<table width="100%" border="0">
   <tr>
-    <td width="50%" style="border: 1px solid #9437FF; border-radius: 10px; background-color: #0D1117;">
-      <h3 align="center">📊 Data Intelligence</h3>
-      <p align="center">
-        <code>Python</code> &nbsp; <code>Advanced SQL</code> &nbsp; <code>Pandas</code><br>
-        <code>Power BI</code> &nbsp; <code>Predictive Modeling</code>
-      </p>
+    <td width="33%" valign="top">
+      <h4>⚡ Intelligence</h4>
+      • Python / Pandas<br>
+      • Advanced SQL<br>
+      • Predictive Analysis<br>
+      • Power BI Arch
     </td>
-    <td width="50%" style="border: 1px solid #9437FF; border-radius: 10px; background-color: #0D1117;">
-      <h3 align="center">☁️ Cloud & Architecture</h3>
-      <p align="center">
-        <code>AWS Infrastructure</code> &nbsp; <code>Oracle Cloud</code><br>
-        <code>Docker</code> &nbsp; <code>PWA & UX/A11y</code>
-      </p>
+    <td width="33%" valign="top">
+      <h4>☁️ Infrastructure</h4>
+      • AWS Ecosystem<br>
+      • Oracle Cloud<br>
+      • Docker / IAC<br>
+      • PWA Architect
+    </td>
+    <td width="33%" valign="top">
+      <h4>♿ Accessibility</h4>
+      • WCAG 2.1 Specialist<br>
+      • Inclusive UX<br>
+      • JavaScript (A11y)<br>
+      • Compliance Audit
     </td>
   </tr>
 </table>
 
 ---
 
-## 📂 Business Cases (Projetos com Impacto Real)
+## 📊 Performance Insights
 
-### 🚗 **Mobilidade Inclusiva: Acess Drivers**
-* **O Problema:** A falta de navegação assistida impede a autonomia de utilizadores com diversidade funcional.
-* **A Minha Solução:** Desenvolvi uma infraestrutura PWA com geolocalização assistida via **Leaflet.js**.
-* **Resultado:** Interface 100% acessível que converte dados geográficos em inclusão real.
-* [**Explorar Solução →**](https://github.com/rafaellagidaro/acess-drivers.git)
-
-### 🤖 **Inteligência Preditiva: MilMatch AI**
-* **O Problema:** Processos de matching lentos e enviesados por análises manuais.
-* **A Minha Solução:** Implementação de algoritmos de Data Science para automação de padrões.
-* **Resultado:** Redução de viés analítico e ganho de 40% na velocidade de processamento.
-* [**Explorar Solução →**](https://github.com/rafaellagidaro/MilMatch-AI.git)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellagidaro&layout=compact&theme=dark&hide_border=true&title_color=ffffff&icon_color=cccccc&text_color=999999&bg_color=111111" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaellagidaro&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=cccccc&text_color=999999&bg_color=111111" />
+</p>
 
 ---
 
-## 📈 Métricas de Autoridade
+## 📂 Strategic Deployments
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellagidaro&layout=compact&theme=transparent&title_color=9437FF&text_color=ffffff&hide_border=true&langs_count=6" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellagidaro&show_icons=true&theme=transparent&title_color=9437FF&text_color=ffffff&icon_color=9437FF&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaellagidaro&theme=react-dark&area=true&hide_border=true&color=9437FF" />
-</div>
+#### 🚗 **Acess Drivers | Mobilidade & Big Data**
+* **Desafio:** Falta de acessibilidade em dados geolocalizados em tempo real.
+* **Solução:** Pipeline de dados PWA com Leaflet.js focado em diversidade funcional.
+* **Impacto:** Entrega de autonomia total ao utilizador final e conformidade digital.
+
+#### 🤖 **MilMatch AI | Engenharia Preditiva**
+* **Desafio:** Ineficiência analítica em grandes volumes de dados de matching.
+* **Solução:** Implementação de lógica algorítmica proprietária para otimização de decisão.
+* **Impacto:** Eliminação de bias e aceleração de resultados em 40%.
 
 ---
 
-## 📈 Roadmap & Compromisso Profissional
+## 📈 Roadmap & Core Metrics
 
-| Especialidade | Nível de Entrega | Foco Estratégico |
-| :--- | :---: | :--- |
-| **Google Data Analytics** | `80%` | Business Intelligence & Big Data |
-| **AWS Cloud Architecture** | `Active` | Cloud Economics & Scalability |
-| **Web Accessibility (WCAG)** | `Mastery` | Design Universal & Inclusão Digital |
-
----
-
-<div align="center">
-  <br />
-  <img src="https://github.com/rafaellagidaro/rafaellagidaro/blob/output/github-contribution-grid-snake.svg" />
-  <br />
-  <p><b>"Estratégia sem dados é palpite. Dados sem acessibilidade são exclusão."</b></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9437FF&height=60&section=footer" />
-</div>
+```yaml
+Current_Project: "Google Data Analytics Professional Certification"
+Status: "80% Completed"
+Key_Focus: ["Cloud Economics", "Scalable ETL", "Digital Sovereignty"]
