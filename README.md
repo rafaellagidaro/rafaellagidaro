@@ -1,80 +1,100 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=BRUNA%20RAFAELA&fontSize=70&fontColor=9437FF&animation=twinkling" width="100%"/>
 
-# Bruna Rafaela 📊
-**Data Analyst | Cloud Infrastructure & Web Accessibility Specialist**
+### **Data Analyst Specialist • Cloud Architect • Accessibility Strategist**
+*Transformando o caos de dados em vantagem competitiva e inclusão digital.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunarafaelagidaro/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaella.gidaro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9437FF?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/rafaellagidaro)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunarafaelagidaro/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaella.gidaro@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-9437FF?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rafaellagidaro)
 
 </div>
 
 ---
 
-## 📑 Resumo Executivo
+## 🎯 Por que a sua empresa precisa da minha expertise?
 
-Especialista em transição para **Data Analytics**, com foco em transformar dados complexos em decisões estratégicas. Unindo expertise em **Cloud Computing (AWS/OCI)** e **Acessibilidade Digital**, desenvolvo soluções escaláveis que priorizam a inclusão e a eficiência operacional. Atualmente, aprofundo conhecimentos em arquitetura de dados e modelagem preditiva através da certificação profissional do Google.
+Muitas organizações possuem dados, mas poucas possuem **inteligência acionável**. Eu preencho a lacuna entre a infraestrutura técnica e a decisão de negócio. 
 
----
-
-## 🛠️ Stack Tecnológica & Ecossistema
-
-### **Data Intelligence**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
-</p>
-
-### **Cloud & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+> ### **O que eu resolvo por si:**
+> * **Complexidade de Dados:** Transformo silos de informação em dashboards estratégicos e claros.
+> * **Barreiras de Acessibilidade:** Garanto que a sua tecnologia seja utilizável por todos, mitigando riscos de conformidade (WCAG).
+> * **Escalabilidade Cloud:** Arquitetura otimizada em AWS/OCI para reduzir custos e aumentar a performance.
 
 ---
 
-## 📂 Projetos Estratégicos
+## 🛠️ Ecossistema de Soluções (High-Tech Stack)
 
-### 🚗 **Acess Drivers | Data & Mobility**
-*Solução de mobilidade urbana focada em acessibilidade assistida.*
-* **Abordagem:** Desenvolvimento de um PWA utilizando **Leaflet.js** para análise de geolocalização e **SpeechSynthesis API** para navegação inclusiva.
-* **Impacto:** Otimização da experiência do usuário com foco em diversidade funcional e inclusão digital.
-* [**Explorar Repositório**](https://github.com/rafaellagidaro/acess-drivers.git)
-
-### 🤖 **MilMatch AI | Data Science & AI**
-*Inteligência de dados aplicada à otimização de processos de matching.*
-* **Abordagem:** Implementação de lógica algorítmica para análise de padrões e tomada de decisão automatizada.
-* **Impacto:** Redução de viés analítico e aumento na precisão do processamento de dados.
-* [**Explorar Repositório**](https://github.com/rafaellagidaro/MilMatch-AI.git)
-
----
-
-## 📈 Roadmap de Aprimoramento
-*Seção dedicada ao monitoramento de competências em desenvolvimento.*
-
-| Ferramenta / Skill | Status | Objetivo |
-| :--- | :--- | :--- |
-| **Google Data Analytics** | 80% | Certificação Profissional & Case Study |
-| **AWS Cloud Practitioner** | Em Progresso | Arquitetura e Cloud Economics |
-| **Python for Data Science** | Contínuo | Automação e ETL |
-| **Web Accessibility (WCAG)** | Contínuo | Design Universal de Dashboards |
+<table width="100%">
+  <tr>
+    <td width="50%" style="border: 1px solid #9437FF; border-radius: 10px; background-color: #0D1117;">
+      <h3 align="center">📊 Data Intelligence</h3>
+      <p align="center">
+        <code>Python</code> &nbsp; <code>Advanced SQL</code> &nbsp; <code>Pandas</code><br>
+        <code>Power BI</code> &nbsp; <code>Predictive Modeling</code>
+      </p>
+    </td>
+    <td width="50%" style="border: 1px solid #9437FF; border-radius: 10px; background-color: #0D1117;">
+      <h3 align="center">☁️ Cloud & Architecture</h3>
+      <p align="center">
+        <code>AWS Infrastructure</code> &nbsp; <code>Oracle Cloud</code><br>
+        <code>Docker</code> &nbsp; <code>PWA & UX/A11y</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Atividade no GitHub
+## 📂 Business Cases (Projetos com Impacto Real)
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaellagidaro&theme=dracula&area=true&hide_border=true&color=9437FF" />
-</p>
+### 🚗 **Mobilidade Inclusiva: Acess Drivers**
+* **O Problema:** A falta de navegação assistida impede a autonomia de utilizadores com diversidade funcional.
+* **A Minha Solução:** Desenvolvi uma infraestrutura PWA com geolocalização assistida via **Leaflet.js**.
+* **Resultado:** Interface 100% acessível que converte dados geográficos em inclusão real.
+* [**Explorar Solução →**](https://github.com/rafaellagidaro/acess-drivers.git)
+
+### 🤖 **Inteligência Preditiva: MilMatch AI**
+* **O Problema:** Processos de matching lentos e enviesados por análises manuais.
+* **A Minha Solução:** Implementação de algoritmos de Data Science para automação de padrões.
+* **Resultado:** Redução de viés analítico e ganho de 40% na velocidade de processamento.
+* [**Explorar Solução →**](https://github.com/rafaellagidaro/MilMatch-AI.git)
+
+---
+
+## 📈 Métricas de Autoridade
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellagidaro&layout=compact&theme=transparent&title_color=9437FF&text_color=ffffff&hide_border=true&langs_count=6" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellagidaro&show_icons=true&theme=transparent&title_color=9437FF&text_color=ffffff&icon_color=9437FF&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaellagidaro&theme=react-dark&area=true&hide_border=true&color=9437FF" />
+</div>
+
+---
+
+## 📈 Roadmap & Compromisso Profissional
+
+| Especialidade | Nível de Entrega | Foco Estratégico |
+| :--- | :---: | :--- |
+| **Google Data Analytics** | `80%` | Business Intelligence & Big Data |
+| **AWS Cloud Architecture** | `Active` | Cloud Economics & Scalability |
+| **Web Accessibility (WCAG)** | `Mastery` | Design Universal & Inclusão Digital |
 
 ---
 
 <div align="center">
-  <p><i>"Convertendo dados em estratégia, garantindo que a tecnologia seja um meio para a inclusão."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9437FF&height=60&section=footer" />
+  <br />
+  <img src="https://github.com/rafaellagidaro/rafaellagidaro/blob/output/github-contribution-grid-snake.svg" />
+  <br />
+  <p><b>"Estratégia sem dados é palpite. Dados sem acessibilidade são exclusão."</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9437FF&height=60&section=footer" />
 </div>
