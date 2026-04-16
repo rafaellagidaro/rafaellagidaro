@@ -1,90 +1,49 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BRUNA%20RAFAELA&fontSize=80&fontColor=FFE81F&animation=fadeIn&desc=DATA%20ANALYST%20|%20JEDI%20MASTER%20OF%20CLOUD&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BRUNA%20RAFAELA&fontSize=70&fontColor=FFE81F&animation=twinkling&desc=ASTRONAUT%20DATA%20ARCHITECT%20|%20STATION%20COMMANDER&descAlignY=70" width="100%"/>
 
-  <br />
-
-  ### 🌌 "Data is the Force. It surrounds us, it penetrates us; it binds the galaxy together."
-  
-  [**LINKEDIN**](https://www.linkedin.com/in/brunarafaelagidaro/) &nbsp;•&nbsp; [**DATACRON**](https://github.com/rafaellagidaro) &nbsp;•&nbsp; [**COMM-LINK**](mailto:rafaella.gidaro@gmail.com)
-
+  <p align="center">
+    <img src="https://img.shields.io/badge/LOCATION-INTERNATIONAL_SPACE_STATION_X-black?style=for-the-badge&labelColor=2ECC71&color=000000" />
+    <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_JEDI-black?style=for-the-badge&labelColor=FFE81F&color=000000" />
+  </p>
 </div>
 
 ---
 
-## 📜 A Long Time Ago, in a Cloud Far, Far Away...
+## 🌌 Relatório de Missão: O Equilíbrio na Força dos Dados
 
-É um período de incerteza nos dados. **BRUNA RAFAELA**, uma mestre na arte da análise, lidera a missão de restaurar a ordem nos ecossistemas digitais. Utilizando o poder da **AWS** e a precisão do **Python**, ela converte o caos de dados brutos em estratégias que impulsionam a aliança corporativa.
+Na vastidão do vácuo, a informação é o único oxigénio. Como **Astronauta de Dados**, a minha missão na Estação Espacial é garantir que os sistemas **AWS/OCI** operem em gravidade zero com precisão absoluta. Entre a luz da estratégia e a sombra da complexidade, eu encontro o equilíbrio.
 
 ---
 
-## 🟢 Yoda's Logic for Business
+## 🏛️ Conselho Consultivo da Estação
+
 <table border="0" width="100%">
-  <tr style="border: none;">
-    <td width="20%" style="border: none;" align="center">
-      <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="100" style="display:none"/> <h1>🍵</h1>
+  <tr>
+    <td width="50%" style="border: 1px solid #2ECC71; border-radius: 15px; padding: 15px;">
+      <h3 align="center">🟢 Master Yoda's Insight</h3>
+      <p align="center"><i>"Dados muitos tens tu, mas se acessíveis não são, invisíveis eles permanecem. Na Estação Espacial, falha não é opção. Fazer ou não fazer, tentativa não há."</i></p>
     </td>
-    <td width="80%" style="border: none;">
-      <i>"Dados muitos tens tu, mas sabedoria neles deves encontrar. Decisões erradas, o lado sombrio do negócio elas são. Acessibilidade não é um luxo, o caminho para todos ela é."</i>
-      <br />— <b>Grand Master Bruna (Yoda Mode)</b>
+    <td width="50%" style="border: 1px solid #FF0000; border-radius: 15px; padding: 15px;">
+      <h3 align="center">🔴 Darth Vader's Command</h3>
+      <p align="center"><i>"Não subestime o poder de uma infraestrutura bem otimizada. Eu sinto a falta de métricas na sua frota. Traga ordem ao caos ou sofra as consequências da ineficiência."</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ The Jedi Holocron (Technical Stack)
-
-<div align="center">
-
-| **Power Source** | **Abilities** | **Mastery Level** |
-| :--- | :--- | :--- |
-| **The Force (Data)** | `Python` `SQL` `Pandas` `ETL` | ![Progress](https://geps.dev/progress/90?dangerColor=FFE81F&accenColor=2ECC71) |
-| **The Starship (Cloud)** | `AWS` `Oracle Cloud` `Docker` | ![Progress](https://geps.dev/progress/75?dangerColor=FFE81F&accenColor=2ECC71) |
-| **The Balance (A11y)** | `WCAG 2.1` `PWA` `JS` | ![Progress](https://geps.dev/progress/100?dangerColor=FFE81F&accenColor=2ECC71) |
-
-</div>
-
----
-
-## 📂 Mission Log: Strategic Missions
-
-#### 🚗 **Project: Acess Drivers (The Kessel Run)**
-* **Objective:** Navegação estelar (urbana) para seres com diversidade funcional.
-* **Technology:** Holomapas via Leaflet.js e telemetria por voz.
-* **Status:** Mission Accomplished. [**Access Holocron**](https://github.com/rafaellagidaro/acess-drivers.git)
-
-#### 🤖 **Project: MilMatch AI (Droid Intelligence)**
-* **Objective:** Neutralizar o viés analítico em sistemas de matching galáctico.
-* **Technology:** Redes neurais e lógica preditiva de alto nível.
-* **Status:** Deployment Successful. [**Access Holocron**](https://github.com/rafaellagidaro/MilMatch-AI.git)
-
----
-
-## 📊 Galactic Command Center (Real-Time DS)
+## 🚀 Telemetria de Sistemas (Tech Stack)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellagidaro&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=ffffff&bg_color=000000" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaellagidaro&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=2ECC71&icon_color=2ECC71&text_color=ffffff&bg_color=000000" />
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,oracle,docker,js,html,css,github,vscode,linux,figma&theme=dark" />
 </p>
 
----
-
-## 🚀 Hyperdrive Roadmap
-
-- [x] **Google Data Analytics Professional** `[▓▓▓▓▓▓▓▓░░]` 80%
-- [ ] **AWS Cloud Practitioner Exam** `[▓▓▓░░░░░░░]`
-- [ ] **Mastering Data Engineering Holocron**
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaellagidaro&theme=react-dark&area=true&hide_border=true&color=2ECC71&bg_color=000000" width="100%" />
-
-  <br />
-  
-  ![Snake animation](https://github.com/rafaellagidaro/rafaellagidaro/blob/output/github-contribution-grid-snake.svg)
-
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2ECC71&height=60&section=footer" />
-  <p><i>"May the Data be with you, always."</i></p>
-</div>
+```json
+{
+  "station_systems": {
+    "engine": "Python & SQL Algorithms",
+    "life_support": "Web Accessibility (WCAG 2.1)",
+    "navigation": "Cloud Infrastructure (AWS/OCI)",
+    "communication": "PWA & Real-time Data Visualization"
+  }
+}
