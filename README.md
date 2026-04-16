@@ -1,49 +1,84 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=BRUNA%20RAFAELA&fontSize=70&fontColor=FFE81F&animation=twinkling&desc=ASTRONAUT%20DATA%20ARCHITECT%20|%20STATION%20COMMANDER&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=BRUNA%20RAFAELA&fontSize=80&fontColor=FFE81F&animation=twinkling&desc=JEDI%20MASTER%20OF%20DATA%20%26%20CLOUD%20ARCHITECT&descAlignY=70" width="100%"/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/LOCATION-INTERNATIONAL_SPACE_STATION_X-black?style=for-the-badge&labelColor=2ECC71&color=000000" />
-    <img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_JEDI-black?style=for-the-badge&labelColor=FFE81F&color=000000" />
+    <img src="https://img.shields.io/badge/RANK-ELITE_COMMANDER-black?style=for-the-badge&labelColor=2ECC71&color=000000" />
+    <img src="https://img.shields.io/badge/FORCE_SIDE-LIGHT-white?style=for-the-badge&labelColor=9437FF&color=000000" />
   </p>
+
+  [**LINKEDIN**](https://www.linkedin.com/in/brunarafaelagidaro/) • [**TERMINAL**](https://github.com/rafaellagidaro) • [**HOLOGRAM**](mailto:rafaella.gidaro@gmail.com)
 </div>
 
 ---
 
-## 🌌 Relatório de Missão: O Equilíbrio na Força dos Dados
-
-Na vastidão do vácuo, a informação é o único oxigénio. Como **Astronauta de Dados**, a minha missão na Estação Espacial é garantir que os sistemas **AWS/OCI** operem em gravidade zero com precisão absoluta. Entre a luz da estratégia e a sombra da complexidade, eu encontro o equilíbrio.
+## 🟢 Yoda's Strategic Advisory
+> *"Grande o volume de dados é, mas o impacto no negócio maior deve ser. Se acessível a solução não é, para o lado sombrio da exclusão você caminha. No código e na estratégia, que a força da clareza esteja com você."*
 
 ---
 
-## 🏛️ Conselho Consultivo da Estação
+## 🛠️ Technological Holocron (High-End Stack)
+*As ferramentas de uma Civilização Avançada:*
 
-<table border="0" width="100%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,aws,oracle,js,docker,html,css,github,vscode,figma,postman&theme=dark" />
+</p>
+
+<table width="100%">
   <tr>
-    <td width="50%" style="border: 1px solid #2ECC71; border-radius: 15px; padding: 15px;">
-      <h3 align="center">🟢 Master Yoda's Insight</h3>
-      <p align="center"><i>"Dados muitos tens tu, mas se acessíveis não são, invisíveis eles permanecem. Na Estação Espacial, falha não é opção. Fazer ou não fazer, tentativa não há."</i></p>
+    <td width="50%">
+      <h4>🛰️ Orbital Infrastructure</h4>
+      <code>AWS (S3/Lambda/IAM)</code><br>
+      <code>Oracle Cloud Architect</code><br>
+      <code>Docker Containerization</code>
     </td>
-    <td width="50%" style="border: 1px solid #FF0000; border-radius: 15px; padding: 15px;">
-      <h3 align="center">🔴 Darth Vader's Command</h3>
-      <p align="center"><i>"Não subestime o poder de uma infraestrutura bem otimizada. Eu sinto a falta de métricas na sua frota. Traga ordem ao caos ou sofra as consequências da ineficiência."</i></p>
+    <td width="50%">
+      <h4>🧠 Neural Intelligence</h4>
+      <code>Predictive Modeling</code><br>
+      <code>ETL Pipeline Automation</code><br>
+      <code>Advanced Statistical SQL</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Telemetria de Sistemas (Tech Stack)
+## 📂 Mission Log: Tactical Deployments
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,aws,oracle,docker,js,html,css,github,vscode,linux,figma&theme=dark" />
-</p>
+<details open>
+<summary><b>🚗 REPO: Acess Drivers | Geo-Intelligence</b></summary>
+<br />
+<blockquote>
+<b>Status:</b> Solução de mobilidade inclusiva integrada com Leaflet.js.<br />
+<b>Impacto:</b> Conversão de telemetria em tempo real para navegação assistida por voz (A11y).
+</blockquote>
+</details>
 
-```json
-{
-  "station_systems": {
-    "engine": "Python & SQL Algorithms",
-    "life_support": "Web Accessibility (WCAG 2.1)",
-    "navigation": "Cloud Infrastructure (AWS/OCI)",
-    "communication": "PWA & Real-time Data Visualization"
-  }
-}
+<details>
+<summary><b>🤖 REPO: MilMatch AI | Pattern Recognition</b></summary>
+<br />
+<blockquote>
+<b>Status:</b> Algoritmos de matching para redução de viés analítico.<br />
+<b>Impacto:</b> Otimização de 40% no processamento de fluxos de dados complexos.
+</blockquote>
+</details>
+
+---
+
+## 📊 Galactic Analytics Dashboard (Interativo)
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellagidaro&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=FFE81F&icon_color=2ECC71&text_color=ffffff&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rafaellagidaro&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=FFE81F&icon_color=2ECC71&text_color=ffffff&bg_color=0D1117&count_private=true" />
+
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaellagidaro&theme=vision-friendly-dark&hide_border=true&stroke=FFE81F&ring=2ECC71&fire=2ECC71&currStreakLabel=FFE81F" />
+</div>
+
+---
+
+## 📈 Training Progress (Roadmap)
+
+```bash
+# Bruna@Jedi-Terminal:~/skills $ check-progress --target certification
+● Google Data Analytics Professional [▓▓▓▓▓▓▓▓░░] 80%
+○ AWS Cloud Practitioner Exam        [▓▓▓░░░░░░░] 30%
+● Web Accessibility Expert (WCAG)    [▓▓▓▓▓▓▓▓▓▓] 100%
