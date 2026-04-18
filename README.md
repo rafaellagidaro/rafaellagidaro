@@ -1,80 +1,56 @@
-<div align="center">
+# Hello 👋, I'm Bruna R. Gidaro
+### Data Analyst | Cloud Infrastructure & Web Accessibility Specialist
 
-# Bruna Rafaela 📊
-**Data Analyst | Cloud Infrastructure & Web Accessibility Specialist**
+Especialista em transição para Data Analytics, com foco em transformar dados complexos em decisões estratégicas. Unindo expertise em Cloud Computing (AWS/OCI) e Acessibilidade Digital, desenvolvo soluções escaláveis que priorizam a inclusão e a eficiência operacional. Atualmente, aprofundo conhecimentos em arquitetura de dados e modelagem preditiva através da certificação profissional do Google.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunarafaelagidaro/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaella.gidaro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9437FF?style=for-the-badge&logo=hyperledger&logoColor=white)](https://github.com/rafaellagidaro)
+## Contact Me
+<p><a href="https://www.linkedin.com/in/brunarafaelagidaro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://brunafolio-end2qwyv.manus.space/#projects" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-</div>
+## Skills
 
----
-
-## 📑 Resumo Executivo
-
-Especialista em transição para **Data Analytics**, com foco em transformar dados complexos em decisões estratégicas. Unindo expertise em **Cloud Computing (AWS/OCI)** e **Acessibilidade Digital**, desenvolvo soluções escaláveis que priorizam a inclusão e a eficiência operacional. Atualmente, aprofundo conhecimentos em arquitetura de dados e modelagem preditiva através da certificação profissional do Google.
-
----
-
-## 🛠️ Stack Tecnológica & Ecossistema
-
-### **Data Intelligence**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>&nbsp;
 </p>
 
-### **Cloud & Infrastructure**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+## Projects
+
+### 🚗 Acess Drivers | Data & Mobility
+
+Abordagem: Desenvolvimento de um PWA utilizando Leaflet.js para análise de geolocalização e SpeechSynthesis API para navegação inclusiva.
+Impacto: Otimização da experiência do usuário com foco em diversidade funcional e inclusão digital.
+
+[View Project](https://github.com/rafaellagidaro/acess-drivers)
 
 ---
 
-## 📂 Projetos Estratégicos
+### MilMatch AI | Data Science & AI
 
-### 🚗 **Acess Drivers | Data & Mobility**
-*Solução de mobilidade urbana focada em acessibilidade assistida.*
-* **Abordagem:** Desenvolvimento de um PWA utilizando **Leaflet.js** para análise de geolocalização e **SpeechSynthesis API** para navegação inclusiva.
-* **Impacto:** Otimização da experiência do usuário com foco em diversidade funcional e inclusão digital.
-* [**Explorar Repositório**](https://github.com/rafaellagidaro/acess-drivers.git)
+Abordagem: Implementação de lógica algorítmica para análise de padrões e tomada de decisão automatizada.
+Impacto: Redução de viés analítico e aumento na precisão do processamento de dados.
 
-### 🤖 **MilMatch AI | Data Science & AI**
-*Inteligência de dados aplicada à otimização de processos de matching.*
-* **Abordagem:** Implementação de lógica algorítmica para análise de padrões e tomada de decisão automatizada.
-* **Impacto:** Redução de viés analítico e aumento na precisão do processamento de dados.
-* [**Explorar Repositório**](https://github.com/rafaellagidaro/MilMatch-AI.git)
+[View Project](https://github.com/rafaellagidaro/MilMatch-AI)
 
 ---
 
-## 📈 Roadmap de Aprimoramento
-*Seção dedicada ao monitoramento de competências em desenvolvimento.*
+## GitHub Stats
 
-| Ferramenta / Skill | Status | Objetivo |
-| :--- | :--- | :--- |
-| **Google Data Analytics** | 80% | Certificação Profissional & Case Study |
-| **AWS Cloud Practitioner** | Em Progresso | Arquitetura e Cloud Economics |
-| **Python for Data Science** | Contínuo | Automação e ETL |
-| **Web Accessibility (WCAG)** | Contínuo | Design Universal de Dashboards |
+<img src="https://github-readme-stats.vercel.app/api?username=rafaellagidaro&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellagidaro&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
-## 📊 Atividade no GitHub
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaellagidaro&theme=default" alt="GitHub Streak" />
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaellagidaro&theme=dracula&area=true&hide_border=true&color=9437FF" />
-</p>
+## GitHub Trophies
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=rafaellagidaro" alt="trophy" />
 
-<div align="center">
-  <p><i>"Convertendo dados em estratégia, garantindo que a tecnologia seja um meio para a inclusão."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9437FF&height=60&section=footer" />
-</div>
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafaellagidaro&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
